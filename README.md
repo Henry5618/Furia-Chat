@@ -1,8 +1,6 @@
 # furia-chat
 # FURIA Chat - Chat para Fãs de CS:GO
 
-![FURIA Esports Logo](https://via.placeholder.com/150x50.png?text=FURIA+Logo)
-
 Chatbot interativo para fãs da FURIA Esports com informações sobre o time, jogadores e partidas.
 
 ## ✨ Funcionalidades
