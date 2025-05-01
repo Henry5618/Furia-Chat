@@ -1,4 +1,4 @@
-# 🐯 Live Chat FURIA
+# 🐯 FURIA CHAT
 
 Um chat ao vivo com comandos personalizados e bot temático do time FURIA.
  - Desenvolvido como projeto acadêmico.
